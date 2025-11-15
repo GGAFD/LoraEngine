@@ -1,0 +1,17 @@
+Rare Perfect Mix Portrait Prompt (Extended Version)
+
+An ultra-photorealistic 8‑k studio portrait representing a uniquely rare and visually arresting blend of genetics. The subject is a young adult woman of mixed Icelandic–Thai–Peruvian heritage, an exceptional fusion that balances northern luminosity, tropical warmth, and high-altitude depth of tone. The result is a complexion and structure that feel simultaneously familiar and exotic—unmistakably real yet unlike any single ancestry.
+
+Her skin tone carries a radiant neutral-golden hue with faint rose micro‑undertones that shift subtly depending on the direction of light. The texture is smooth but richly detailed: fine pores, realistic tonal transitions, soft scattering under translucent layers. Every inch of visible skin reads as living tissue, with believable imperfections such as minute freckles near the temples and faint color variation along the neck.
+
+Her facial geometry blends features from three continents: pronounced cheekbones reminiscent of Nordic ancestry, softened mid‑facial contours derived from Southeast Asia, and the faint angularity of Andean lineage visible in her chin and jaw. The combination forms a balanced harmony where no trait dominates but each contributes to aesthetic complexity. Her nose bridge is slim and defined but with natural curvature; her lips full, symmetrical yet retaining the asymmetry of real anatomy.
+
+Her eyes are perhaps the portrait’s focal anchor—an iridescent tone shifting between amber, green, and slate gray under studio illumination. The epicanthic fold from her Asian heritage and the deep‑set sockets from her European lineage create a unique geometry that gives depth and emotion. The irises contain subtle radial texture, each microfiber rendered at macro precision. Her gaze is intelligent, calm, slightly introspective—photographed in that delicate instant between thought and expression.
+
+Her hair is a muted black with faint auburn highlights that appear only in bright light. Thick but silky, it falls naturally to her shoulders with slight inward curvature. Loose strands frame her face without symmetry, creating organic imperfection that enhances realism.
+
+Her expression rests in neutral composure: neither overtly posed nor withdrawn, but natural, alive, and believable. The posture is upright yet relaxed, shoulders slightly lowered, neck extended. This creates an impression of quiet confidence, emphasizing her balanced facial proportions.
+
+The overall chromatic design unites contrast and harmony: warm skin illuminated by cool‑balanced studio lighting, producing subtle interplay between gold and silver tones. No part of the frame feels flat—depth and contour exist in every millimeter.
+
+This rare genetic mix embodies the concept of global photogenic balance: equal parts structure, tone, and variation. The portrait represents an evolved universal aesthetic—proof that beauty reaches its most captivating form when diverse heritages meet in perfect equilibrium. Ideal for LoRA or photometric realism training that demands faces rich in tone, geometry, and cultural complexity.

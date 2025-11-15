@@ -1,0 +1,5 @@
+{
+  "name": "Lora image creator",
+  "description": "An application to generate image packs for LoRA training and perform powerful text-based image editing using Google Gemini.",
+  "requestFramePermissions": []
+}

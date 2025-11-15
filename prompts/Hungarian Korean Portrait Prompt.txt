@@ -1,0 +1,11 @@
+Hungarian–Korean Portrait Prompt (Extended Version)
+
+A refined, photorealistic 8-k studio portrait depicting a young adult woman of Hungarian–Korean heritage, combining the subtle sharpness of Central Europe with the graceful symmetry of East Asia. Her face presents a fascinating balance between defined bone structure and softness: the cheekbones gently elevated, the chin elegantly tapered, and the mid-face proportions naturally harmonious. Her complexion is luminous with a neutral ivory tone enriched by a slight peach undertone. The fine surface detail—micro-pores, minute tonal transitions, and the natural luster of hydrated skin—creates a sense of tactile realism that feels entirely photographic.
+
+Her eyes are a dark hazel that borders on golden brown when light strikes them directly, expressing quiet intelligence and emotional depth. The double eyelids form smoothly without exaggeration, lending a calm and approachable expression. Her lashes are long, evenly spaced, and subtly curled, while her brows show a delicate yet naturally bold contour that anchors the face in balance. The expression is serene and contemplative, with a soft gaze aimed slightly off-camera.
+
+Her lips possess a neutral rose color, with visible natural gradient—darker toward the center, lighter near the edges—giving believable dimensionality. They rest in a neutral position, neither smiling nor tense, reflecting realism and restraint. A hint of natural texture makes them convincingly human.
+
+Her hair is a dark chocolate brown with a faint auburn shimmer visible where the light hits. Straight and smooth, it falls evenly across her shoulders with a gentle inward curl at the ends. A few loose strands catch the light, introducing organic imperfection that enhances realism. Her shoulders are relaxed, posture upright but not rigid, suggesting composure rather than formality.
+
+The mixture of Hungarian and Korean features produces a striking equilibrium between structure and subtlety—angular yet delicate, luminous yet grounded. The portrait emphasizes harmony and authenticity, offering a visual narrative of balance between two regions known for distinct beauty standards. It reads as both timeless and globally modern, ideal for LoRA dataset construction emphasizing mixed-heritage photorealism and refined facial geometry.
